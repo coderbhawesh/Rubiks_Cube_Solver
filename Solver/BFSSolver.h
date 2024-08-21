@@ -1,5 +1,8 @@
 
-#include<bits/stdc++.h>
+#include<iostream>
+#include <unordered_map>
+#include <queue>
+#include <vector>
 #include "../Model/RubiksCube.h"
 
 #ifndef RUBIKS_CUBE_SOLVER_BFSSOLVER_H

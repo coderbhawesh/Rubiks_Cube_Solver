@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include<vector>
+#include <queue>
+#include <unordered_map>
 #include "../Model/RubiksCube.h"
 //#include "../Model/PatternDatabase/PatternDatabase.h"
 #include "../PatternDatabases/CornerPatternDatabase.h"

@@ -1,4 +1,5 @@
-#include<bits/stdc++.h>
+#include<vector>
+#include <queue>
 #include "../Model/RubiksCube.h"
 #include "DFSSolver.h"
 

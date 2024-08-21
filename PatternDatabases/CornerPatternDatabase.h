@@ -4,6 +4,7 @@
 #include "../Model/RubiksCube.h"
 #include "PatternDatabase.h"
 #include "PermutationIndexer.h"
+
 using namespace std;
 
 class CornerPatternDatabase : public PatternDatabase {

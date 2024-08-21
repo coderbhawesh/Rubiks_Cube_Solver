@@ -3,7 +3,7 @@
 
 #include "../Model/RubiksCube.h"
 #include "NibbleArray.h"
-#include "bits/stdc++.h"
+#include <iostream>
 
 using namespace std;
 

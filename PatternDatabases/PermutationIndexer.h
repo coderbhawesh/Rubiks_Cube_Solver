@@ -1,6 +1,7 @@
 #ifndef RUBIKS_CUBE_SOLVER_PERMUTATIONINDEXER_H
 #define RUBIKS_CUBE_SOLVER_PERMUTATIONINDEXER_H
-#include "bits/stdc++.h"
+#include <iostream>
+#include <array>
 #include "math.h"
 using namespace std;
 

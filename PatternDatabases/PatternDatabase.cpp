@@ -1,5 +1,5 @@
 #include "PatternDatabase.h"
-
+#include <fstream>
 using namespace std;
 
 PatternDatabase::PatternDatabase(const size_t size) :

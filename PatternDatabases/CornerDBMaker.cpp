@@ -1,5 +1,5 @@
 #include "CornerDBMaker.h"
-
+#include <queue>
 using namespace std;
 
 CornerDBMaker::CornerDBMaker(string _fileName) {

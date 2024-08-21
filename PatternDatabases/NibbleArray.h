@@ -1,7 +1,9 @@
 #ifndef RUBIKS_CUBE_SOLVER_NIBBLEARRAY_H
 #define RUBIKS_CUBE_SOLVER_NIBBLEARRAY_H
 
-#include <bits/stdc++.h>
+#include <cstddef>
+#include <cstdint>
+#include <vector>
 
 using namespace std;
 
